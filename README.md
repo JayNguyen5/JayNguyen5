@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
 <h3 align="center">A passionate Full Stack Software Engineer who loves gaming, software, and learning new things.</h3>
 
-<p align="center">- 🔭 I’m currently working on **a cyber security training web application to educate the youth about potential threats on the internet**</p>
+<p align="center">- 🔭 I’m currently working on <strong>a cyber security training web application to educate the youth about potential threats on the internet</strong></p>
 
-<p align="center">- 💬 Ask me about **ReactJS, .Net, C#**</p>
+<p align="center">- 💬 Ask me about <strong>ReactJS, .Net, C#</strong></p>
 
-<p align="center">- ⚡ Fun fact **I like to play volleyball, watch anime, and travel**</p>
+<p align="center">- ⚡ Fun fact <strong>I like to play volleyball, watch anime, and travel</strong></p>
 <p align="center">
 <img src="https://media.tenor.com/84Y17eI-b0oAAAAC/infinite-void-gojo.gif" alt="" height="278" width="498" /></p>
 
